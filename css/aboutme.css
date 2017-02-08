@@ -1,0 +1,11 @@
+.left_container {
+	float: left;
+	width: 38%;
+}
+.right_container {
+	width: 60%;
+	float: left;
+}
+.clear{
+	clear: both;
+}
